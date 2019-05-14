@@ -1,30 +1,20 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: CBD oil from earth to your mind and body
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Organically certified, naturally extracted CBD oil
+subheading: Healthy living starts with calming your mind and body
 mainpitch:
-  title: Why Kaldi
+  title: Kalm CBD Oil
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Kalm your body. Kalm your mind. Kalm your skin. Kalm CBD oil is your pathway to reducing stress and living your best life. From agricultural processes, to oil extraction and manufacturing to packaging, Kalm is focused on best, mos sustainable practices in the industry.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Kalm brands brings one of earth's natural wonders to consumers - CBD oil. Our products hail from certified organic farms in the Finger Lakes region of New York. 
 intro:
   blurbs:
     - image: /img/coffee.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        We sell a hemp-derived, full-spectrum oil tincture that is sourced from a certified organic farm in the finger lakes region of upstate New York. There are lots of farms and suppliers in the market, but our extensive search led us to Main Street farms. Their processes and products are spot in with our own ethos of sustainability and organic practices.
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
