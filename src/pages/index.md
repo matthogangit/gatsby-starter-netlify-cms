@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: CBD oil from earth to your mind and body
-image: /img/home-jumbotron.jpg
+image: /img/Kalm candle_2.jpg
 heading: Organically certified, naturally extracted CBD oil
 subheading: Healthy living starts with calming your mind and body
 mainpitch:
