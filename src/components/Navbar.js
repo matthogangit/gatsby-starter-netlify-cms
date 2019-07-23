@@ -72,7 +72,7 @@ const Navbar = class extends React.Component {
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>
-              <Link className="navbar-item" to="/Form/examples">
+              <Link className="navbar-item" href="https://datacoup.typeform.com/to/eZ9M8j" data-mode="drawer_right" data-submit-close-delay="0" target="_blank">
                 Form Examples
               </Link>
             </div>
